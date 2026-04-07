@@ -1,2 +1,2 @@
 # konstruct
-Сайт KONSTRUCT
+Сайт KONSTRUCT - https://daniilfars.github.io/konstruct/
